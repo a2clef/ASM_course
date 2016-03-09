@@ -1,0 +1,13 @@
+﻿Build started 2015/11/3 20:31:14.
+     1>Project "H:\code\ASM_Port\Queue_N_1\Queue_N_1.vcxproj" on node 4 (Build target(s)).
+     1>_MASM:
+         Assembling Queue_N_1.asm...
+         cmd.exe /C "C:\Users\Alto Clef\AppData\Local\Temp\tmpc30b58b4d46a483c8972e9cdb2e098e2.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\Queue_N_1.obj" /W3 /errorReport:prompt  /TaQueue_N_1.asm
+     1>Queue_N_1.asm(4): fatal error A1000: cannot open file : windows.inc
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Queue_N_1.obj" /W3 /errorReport:prompt  /TaQueue_N_1.asm" exited with code 1.
+     1>Done Building Project "H:\code\ASM_Port\Queue_N_1\Queue_N_1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.61

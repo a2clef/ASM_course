@@ -1,0 +1,9 @@
+﻿Build started 2015/11/23 23:25:16.
+     1>Project "F:\code\ASM_Port\Fib\Fib.vcxproj" on node 5 (Build target(s)).
+     1>Link:
+         Fib.vcxproj -> F:\code\ASM_Port\Debug\Fib.exe
+     1>Done Building Project "F:\code\ASM_Port\Fib\Fib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.18
