@@ -1,9 +1,5 @@
-﻿Build started 2015/11/23 23:25:16.
-     1>Project "F:\code\ASM_Port\Bufferm\Bufferm.vcxproj" on node 4 (Build target(s)).
-     1>Link:
-         Bufferm.vcxproj -> F:\code\ASM_Port\Debug\Bufferm.exe
-     1>Done Building Project "F:\code\ASM_Port\Bufferm\Bufferm.vcxproj" (Build target(s)).
+﻿Build started 2016/3/9 20:41:56.
 
 Build succeeded.
 
-Time Elapsed 00:00:00.18
+Time Elapsed 00:00:00.26

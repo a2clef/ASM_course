@@ -1,15 +1,5 @@
-﻿Build started 2015/11/24 19:06:11.
-     1>Project "F:\code\ASM_Port\Buffer3_1\Buffer3_1.vcxproj" on node 2 (Build target(s)).
-     1>_MASM:
-         Assembling asm.asm...
-         cmd.exe /C "C:\Users\Alto Clef\AppData\Local\Temp\tmp2a7d932fe833431bae679d1034e9dd46.cmd"
-         ml.exe /c /nologo /Zi /Fo"Debug\asm.obj" /W3 /errorReport:prompt  /Taasm.asm
-       Link:
-         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\code\ASM_Port\Debug\Buffer3_1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\code\ASM_Port\Debug\Buffer3_1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\code\ASM_Port\Debug\Buffer3_1.lib" /MACHINE:X86 Debug\c.obj
-         Debug\asm.obj
-         Buffer3_1.vcxproj -> F:\code\ASM_Port\Debug\Buffer3_1.exe
-     1>Done Building Project "F:\code\ASM_Port\Buffer3_1\Buffer3_1.vcxproj" (Build target(s)).
+﻿Build started 2016/3/9 20:41:56.
 
 Build succeeded.
 
-Time Elapsed 00:00:12.84
+Time Elapsed 00:00:00.30

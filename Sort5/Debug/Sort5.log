@@ -1,9 +1,5 @@
-﻿Build started 2015/11/23 23:25:02.
-     1>Project "F:\code\ASM_Port\Sort5\Sort5.vcxproj" on node 2 (Build target(s)).
-     1>Link:
-         Sort5.vcxproj -> F:\code\ASM_Port\Debug\Sort5.exe
-     1>Done Building Project "F:\code\ASM_Port\Sort5\Sort5.vcxproj" (Build target(s)).
+﻿Build started 2016/3/9 20:42:04.
 
 Build succeeded.
 
-Time Elapsed 00:00:00.50
+Time Elapsed 00:00:01.05
